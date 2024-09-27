@@ -78,7 +78,7 @@
         "content content"
         "signup feature-1"
         "feature-2 feature-3";
-      grid-gap: 0.2rem;
+      
       font-size: 1rem;
     }
   }
@@ -98,7 +98,7 @@
         "feature-1"
         "feature-2"
         "feature-3";
-      grid-gap: 0.2rem;
+    
       font-size: 0.9rem;
     }
   }
